@@ -29,3 +29,7 @@ pip install --upgrade pip
 pip install selenium
 
 ------------------------------------------------
+
+Ab jetzt arbeite ich in der .venv Umgebung
+
+------------------------------------------------
