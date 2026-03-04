@@ -1,10 +1,14 @@
 # Feature-Dokumentation
 
-| Feature | Status | Datei | Zeilen |
+| Feature | Status | Datei | Zeilen (ca.) |
 |---|---:|---|---|
-| Scrape HTML Tag (title) | ✅ | myproject.py | 10-35 |
-| GET mit Variablen | ✅ | myproject.py | 37-45 |
-| POST mit Variablen | ✅ | myproject.py | 47-55 |
-| Cookies auflisten | ✅ | myproject.py | 57-70 |
-| Selenium: Title lesen | ⬜ | myproject.py | 120-160 |
-| Websocket Demo | ⬜ | ... | ... |
+| Anzeige HTML Tag (Scraping) | ✅ | myproject.py | 45-76 |
+| GET Request mit Variablen | ✅ | myproject.py | 79-88 |
+| POST Request mit Variablen | ✅ | myproject.py | 91-100 |
+| Cookie-Liste (requests.Session) | ✅ | myproject.py | 103-120 |
+| Minimale Doku | ✅ | README.md | 1-60 |
+| Selenium Chrome: Title | ✅ | myproject.py | 145-160 |
+| Selenium Chrome: Cookies | ✅ | myproject.py | 163-182 |
+| Selenium Chrome: Screenshot | ✅ | myproject.py | 185-195 |
+| Saubere CLI (argparse Subcommands) | ✅ | myproject.py | 198-260 |
+| Fehlerbehandlung | ✅ | myproject.py | 290-315 |
