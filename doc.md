@@ -34,4 +34,4 @@ Ab jetzt arbeite ich in der .venv Umgebung
 
 ------------------------------------------------
 
-Nun kann man mit hilfe der Befehle im features.md die befehle ausführen.
+Nun kann man mit hilfe der Befehle im features.md die Befehle ausführen.
