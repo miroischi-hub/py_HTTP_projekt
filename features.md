@@ -2,7 +2,8 @@
 
 | Feature | Datei | Befehl |
 |---|---|---|
-| Anzeige HTML Tag (Scraping) | myproject.py | 45-76 |
+| Anzeige HTML Tag (Scraping) | myproject.py | python3 /home/miro/Dokumente/Python-Projekt/test_selenium.py scrape-tag --url https://porsche.com title
+ |
 | GET Request mit Variablen | myproject.py | 79-88 |
 | POST Request mit Variablen | myproject.py | 91-100 |
 | Cookie-Liste (requests.Session) | myproject.py | 103-120 |
