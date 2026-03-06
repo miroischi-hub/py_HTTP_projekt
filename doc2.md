@@ -71,18 +71,3 @@ python3 /home/miro/Dokumente/Python-Projekt/test_selenium.py selenium-titel --ur
 Nachdem alle Abhängigkeiten installiert wurden, können die Funktionen des Programms verwendet werden.
 
 Die verfügbaren Befehle sind in der Datei features.md dokumentiert.
-
-Beispiel:
-
-python myproject.py "title"
-python myproject.py get --url https://httpbin.org/get
-python myproject.py selenium-title --url https://example.com
-Zusammenfassung
-
-Python und venv installieren
-
-Virtuelle Umgebung erstellen
-
-Virtuelle Umgebung aktivieren
-
-Selenium und weitere Pakete installieren
