@@ -52,8 +52,8 @@ Alle Python-Befehle beziehen sich nun auf diese Umgebung.
 
 Beispiel:
 
-python myproject.py selenium-title --url https://example.com
-Programm verwenden
+python3 /home/miro/Dokumente/Python-Projekt/test_selenium.py selenium-titel --url https://porsche.com
+### Programm verwenden
 
 Nachdem alle Abhängigkeiten installiert wurden, können die Funktionen des Programms verwendet werden.
 
