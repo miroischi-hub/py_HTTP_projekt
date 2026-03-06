@@ -8,4 +8,3 @@
 | Cookie-Liste (requests.Session) | myproject.py | python3 /home/miro/Dokumente/Python-Projekt/test_selenium.py list-cookies --url https://porsche.com |
 | Selenium Chrome: Cookies | myproject.py | python3 /home/miro/Dokumente/Python-Projekt/test_selenium.py selenium-cookies --url https://porsche.com |
 | Selenium Chrome: Screenshot | myproject.py | python3 /home/miro/Dokumente/Python-Projekt/test_selenium.py selenium-screenshot --url https://porsche.com --out screenshot.png |
-| Fehlerbehandlung | myproject.py | 290-315 |
